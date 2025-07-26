@@ -1,6 +1,6 @@
 ## 🦎 Reptile Interactive Cursor
 
-An interactive reptile-style animated cursor built using HTML, CSS, and JavaScript.
+An interactive reptile-style animated cursor built using HTML and JavaScript.
 
 <br>
 
